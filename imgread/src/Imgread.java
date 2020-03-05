@@ -10,7 +10,6 @@ import java.sql.SQLException;
 import java.util.*;
 public class Imgread 
 {
-    Scanner sc=new Scanner(System.in);
     Connection con = null;
     PreparedStatement ps = null;
     ResultSet rs = null;
